@@ -59,3 +59,36 @@ article {
     justify-content: space-around;
     gap: 50px;
 }
+
+
+
+
+
+
+i {
+    background-color: white;
+}
+
+footer {
+    margin-top: 200px;
+}
+
+
+footer h1 {
+    text-align: center;
+    
+}
+
+
+footer img{
+    width: 100px;
+    height: 70px;
+    margin-top: 50px;
+}
+
+
+
+
+h2{
+    text-align: center;
+}
